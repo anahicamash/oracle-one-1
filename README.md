@@ -6,3 +6,4 @@ Fecha : 21 de Junio
 
 Participantes:
 - Anahi Camas - Main developer
+- Maria Lópex - QA tester
