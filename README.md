@@ -1,2 +1,3 @@
 # oracle-one-1
-Texto
+Description del proyecto:
+Oracle Next Education
